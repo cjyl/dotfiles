@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carlythelaw@gmail.com
+	name = Carly Luo
